@@ -499,7 +499,7 @@ pre code {
 }
 
 .fw-wrapper {
-    max-height: 800px;  /* must equal with .fw-img height */
+    max-height: 100%;  /* must equal with .fw-img height */
 }
 
 .fw-img {
