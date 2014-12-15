@@ -509,5 +509,5 @@ pre code {
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
-    max-height: 800px;
+    max-height: 100%;
 }
