@@ -1,0 +1,5 @@
+# exclude emacs versioned files
+*~
+
+# exclude jekyll generated files
+_site/**
