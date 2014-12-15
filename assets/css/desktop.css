@@ -36,19 +36,6 @@
 	margin: 0 auto;
 }
 
-.fw-wrapper {
-    height: 100%;  /* must equal with .fw-img height */
-}
-
-.fw-img {
-    position: absolute;
-    left: 0;       
-    background-position: 0;
-    background-repeat: no-repeat;
-    width: 100%;
-    background-size: cover;
-    height: 100%;
-}
 
 .img-group {
    float: left;
