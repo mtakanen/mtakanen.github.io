@@ -475,10 +475,22 @@ pre code {
 	text-decoration: none;
 }
 
+.post-teaser {
+	width: 100%;
+	float: left;
+}
+
 .post-description {
+	width: 80%;
 	color: #777;
 	font-size: 15pt;
 	font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
+
+.post-thumbnail {
+	float: left;
+	width: 20%;
+	margin-right: 10px;
 }
 
 .post-date {
