@@ -1,0 +1,84 @@
+@import url(default.css);
+
+#post-info {
+	width: 800px;
+	left: 50%;
+	margin-left: -350px;
+	bottom: 100px;
+}
+
+#post-info h1 {
+	font-weight: bold;
+	font-size: 44px;
+	line-height: 44px;
+}
+
+#home-title {
+	width: 800px;
+	margin-left: -350px;
+}
+
+#bg-video {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: 0;
+	overflow: hidden;
+}
+
+
+#article {
+  	width: 800px;
+	margin: 0 auto;
+}
+
+.fw-wrapper {
+    height: 800px;  /* must equal with .fw-img height */
+}
+
+.fw-img {
+    position: absolute;
+    display: block;
+    left: 0;       
+    background-position: 0;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 800px;
+}
+
+.img-group {
+   float: left;
+   width: 100%;
+}
+
+.img-float {
+   float: left;
+   width: 395px;
+}
+
+.img-float:first-child {
+   padding-right: 10px;
+}
+
+.menu {
+	position: fixed;
+}
+
+.menu-content {
+	position: fixed;
+}
+
+.pagination, #post-list {
+	width: 800px;
+	left: 50%;
+	margin-left: -350px;
+}
+
+.copyright {
+	right: 20px;
+}
