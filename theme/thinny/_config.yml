@@ -1,3 +1,4 @@
+source:		theme/thinny/
 # Dependencies
 markdown:	redcarpet
 highlighter:	true
