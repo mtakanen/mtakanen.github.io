@@ -8,8 +8,8 @@ permalink:	/blog/:title
 # Setup
 title:		mtakanen
 tagline:	'blog'
-description:	'My personal blog.'
-url:		http://localhost
+description:	'Experiental photography'
+url:		http://www.experiental.xyz
 
 author:
   name:		'Marko E. Takanen'
