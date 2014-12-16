@@ -6,7 +6,7 @@ image: https://farm8.staticflickr.com/7496/15707420469_b4956193ef_k.jpg
 video: false
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+#Trips in 2014
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
@@ -22,7 +22,7 @@ This new version of Thinny comes with mobile support and some bugfixes.
 The global variables are set on the `_config.yml` file.
 
 To start, you need to change at least the variable `url` on the file.
-{% include image.html url="https://farm9.staticflickr.com/8582/15893453475_3a39f597c6_h.jpg" width="100%" description="Blackgame in the morning." %}
+{% include image_wide.html url="https://farm9.staticflickr.com/8582/15893453475_3a39f597c6_h.jpg" width="100%" description="Blackgame in the morning." %}
 #### Social links
 
 To add a social link you just need to add the following code inside the variable `social`:
