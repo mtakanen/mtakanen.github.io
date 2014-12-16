@@ -157,6 +157,10 @@ img.site-icon-page {
 	display: block;
 }
 
+.column {
+	margin: 0 auto;
+}
+
 #article {
 	font-family: "PT Serif", Georgia, "Times New Roman", serif;
 	font-weight: 400;
@@ -164,6 +168,7 @@ img.site-icon-page {
 	font-size:20px;
 	color: #313131;
 	line-height: 1.5;
+	margin: 0 auto;
 }
 
 #article a {

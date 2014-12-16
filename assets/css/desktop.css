@@ -32,8 +32,11 @@
 
 
 #article {
+  	width: 1200px;
+}
+
+.column {
   	width: 800px;
-	margin: 0 auto;
 }
 
 
@@ -44,7 +47,7 @@
 
 .img-float {
    float: left;
-   width: 395px;
+   max-width: 595px;
 }
 
 .img-float:first-child {
