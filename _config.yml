@@ -6,9 +6,9 @@ highlighter:	true
 permalink:	/blog/:title
 
 # Setup
-title:		mtakanen
+title:		experiantal.xyz
 tagline:	'blog'
-description:	'Experiental photography'
+description:	'Outdoors experiental'
 url:		http://www.experiental.xyz
 
 author:
@@ -28,7 +28,7 @@ social:
 
 
   - icon:	feed
-    url:	http://localhost/atom.xml
+    url:	http://www.experiental.xyz/atom.xml
     desc:	Subscribe to my feed
     
 menu:

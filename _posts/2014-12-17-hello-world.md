@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Hello World"
-quote: The engineers of the future will be poets. --Terence McKenna
+quote: The engineers of the future will be poets.
+quoter: Terence McKenna
 image: https://farm8.staticflickr.com/7496/15707420469_b4956193ef_k.jpg
 video: false
 ---

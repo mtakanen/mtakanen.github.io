@@ -15,7 +15,7 @@ article: true
 	<div id="post-info">
 		<h1>{{ page.title }}</h1>
 		{% if page.quote %}
-			<h2>{{ page.quote }}</h2>
+			<h2><span class="quote">{{ page.quote }}</span><span class="quoter">{{ page.quoter }}</span></h2>
 		{% endif %}
 		<a class="site-title" href="{{ site.url }}"><img src="{{ site.icon }}" class="site-icon-small">{{ site.title }}</a>, in {{ page.date | date_to_long_string }}
 	</div>

@@ -78,7 +78,7 @@ img {
 
 #post-info h2 {
 	opacity: 0.75;
-	font-style: italic;
+
 	font-size: 24px;
 	line-height: 24px;
 	text-align: justify;
@@ -86,13 +86,27 @@ img {
 	margin: 15px 0px;
 }
 
-#post-info h2:before {
+#post-info h2 span.quote {
+	font-style: italic;	
+}
+
+
+#post-info h2 span.quote:before {
 	content: "“";
 }
 
-#post-info h2:after {
+#post-info h2 span.quote:after {
 	content: "”";
 }
+
+#post-info h2 span.quoter {
+	font-size: 18px;
+	line-height: 18px;
+}
+
+#post-info h2 span.quoter:before {
+	content: " ––";
+} 
 
 #post-info h3 {
 	text-transform: uppercase;
