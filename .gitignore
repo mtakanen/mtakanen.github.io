@@ -1,5 +1,9 @@
-# exclude emacs versioned files
+# git excludes 
+# emacs versioned files
 *~
+
+# mac database files
+.DS_STORE
 
 # exclude jekyll generated files
 _site/**
