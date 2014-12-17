@@ -6,8 +6,8 @@ highlighter:	true
 permalink:	/blog/:title
 
 # Setup
-title:		experiantal.xyz
-tagline:	'blog'
+title:		experiantal
+tagline:	'xyz'
 description:	'Outdoors experiental'
 url:		http://www.experiental.xyz
 
