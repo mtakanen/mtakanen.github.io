@@ -47,5 +47,5 @@ The ascent was not long but terrain is rocky.
 
 {% include image_wide.html src="https://farm8.staticflickr.com/7580/16129687432_0dfa1f9022_k.jpg" link="https://www.flickr.com/photos/m3t/16129687432/" description="Campsite" %}
 Foo text
-{% include image_full.html src="https://farm9.staticflickr.com/8651/15942999998_fe1b5a5a8d_k.jpg" link="https://www.flickr.com/photos/m3t/15942999998/" height="100%" description="Campfire" %}
+{% include image_full.html src="https://farm9.staticflickr.com/8651/15942999998_fe1b5a5a8d_k.jpg" link="https://www.flickr.com/photos/m3t/15942999998/" description="Campfire" %}
 Story goes on...
