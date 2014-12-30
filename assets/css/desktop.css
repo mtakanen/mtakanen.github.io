@@ -31,7 +31,7 @@
 }
 
 
-#article {
+.wide {
   	width: 1200px;
 }
 
@@ -39,11 +39,6 @@
   	width: 800px;
 }
 
-
-.img-group {
-   float: left;
-   width: 100%;
-}
 
 .img-float {
    float: left;

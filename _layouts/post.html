@@ -23,11 +23,15 @@ article: true
 		<a class="scroll" data-speed="1000" href="#article"><span class="genericon genericon-expand"></span></a>
 	</div>
 </header>
-<div id="article">
-  <div class="column">
-	{{ content }}
+  <div id="article">
+    <div class="viewport">
+      <div class="wide">
+	<div class="column">
+	  {{ content }}
+	</div>
+      </div>
+    </div>
   </div>
-</div>
 {% for post in site.related_posts limit:1 %}
 <footer class="{% if post.dark %}dark{% else %}clean{% endif %}" style="background-image: url({% if post.image %}{{ post.image }}{% else %}{{ site.cover }}{% endif %});{% if post.background_position %} background-position: {{ post.background_position }};{% endif %}height: 75%; min-height: 500px;">
 	<div id="nav-icon" style="top: 25px;">

@@ -156,6 +156,11 @@ img.site-icon-page {
 	position: absolute;
 }
 
+img.full-width {
+  min-width: 100%;
+
+}
+
 #nav-icon {
 	width: 30px;
 	left: 50%;
@@ -171,9 +176,19 @@ img.site-icon-page {
 	display: block;
 }
 
+.wide {
+      	margin: 0 auto;
+}
+
+.wide-img-group {
+   float: left;
+   width: 100%;
+}
+
 .column {
 	margin: 0 auto;
 }
+
 
 #article {
 	font-family: "PT Serif", Georgia, "Times New Roman", serif;
@@ -517,16 +532,3 @@ pre code {
 	color: #999;
 }
 
-.fw-wrapper {
-    max-height: 100%;  /* must equal with .fw-img height */
-}
-
-.fw-img {
-    position: absolute;
-    left: 0;       
-    background-position: 0;
-    background-repeat: no-repeat;
-    width: 100%;
-    background-size: cover;
-    max-height: 100%;
-}
