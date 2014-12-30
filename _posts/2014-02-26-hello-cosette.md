@@ -10,19 +10,19 @@ video: false
 
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
-{% include image_group.html src1="https://farm4.staticflickr.com/3839/15075108568_4d27c52136_c.jpg" description1="Kannu" src2="https://farm6.staticflickr.com/5584/15065257139_66a9664c48_c.jpg" description2="Campfire" %}
+{% include image_group.html src1="https://farm4.staticflickr.com/3839/15075108568_4d27c52136_c.jpg" description1="Kannu" link1="https://www.flickr.com/photos/m3t/16129687432/" src2="https://farm6.staticflickr.com/5584/15065257139_66a9664c48_c.jpg" description2="Campfire" link2="https://www.flickr.com/photos/m3t/16129687432/" %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
 
 ## Usage
-{% include image_full.html src="https://farm8.staticflickr.com/7505/15705971478_6163bcc86a_h.jpg" height="800px" description="Rowernighter in Turku" %}
+{% include image_full.html src="https://farm8.staticflickr.com/7505/15705971478_6163bcc86a_h.jpg" height="800px" description="Rowernighter in Turku" link="https://www.flickr.com/photos/m3t/16129687432/"%}
 
 ### Main variables
 
 The global variables are set on the `_config.yml` file.
 
 To start, you need to change at least the variable `src` on the file.
-{% include image_wide.html src="https://farm9.staticflickr.com/8582/15893453475_3a39f597c6_h.jpg" width="100%" description="Blackgame in the morning." %}
+{% include image_wide.html src="https://farm9.staticflickr.com/8582/15893453475_3a39f597c6_h.jpg" width="100%" description="Blackgame in the morning." link="https://www.flickr.com/photos/m3t/16129687432/" %}
 #### Social links
 
 To add a social link you just need to add the following code inside the variable `social`:
