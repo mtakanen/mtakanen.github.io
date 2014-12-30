@@ -8,14 +8,14 @@ video: false
 
 #Trips in 2014
 
+{% include image.html src="https://farm6.staticflickr.com/5584/15065257139_66a9664c48_c.jpg" description="Campfire" link="https://www.flickr.com/photos/m3t/16129687432/" %}
+
 Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
 
 {% include image_group.html src1="https://farm4.staticflickr.com/3839/15075108568_4d27c52136_c.jpg" description1="Kannu" link1="https://www.flickr.com/photos/m3t/16129687432/" src2="https://farm6.staticflickr.com/5584/15065257139_66a9664c48_c.jpg" description2="Campfire" link2="https://www.flickr.com/photos/m3t/16129687432/" %}
 
 This new version of Thinny comes with mobile support and some bugfixes.
-
-## Usage
-{% include image_full.html src="https://farm8.staticflickr.com/7505/15705971478_6163bcc86a_h.jpg" height="800px" description="Rowernighter in Turku" link="https://www.flickr.com/photos/m3t/16129687432/"%}
+{% include image_full.html src="https://farm8.staticflickr.com/7505/15705971478_6163bcc86a_h.jpg" link="https://www.flickr.com/photos/m3t/16129687432/" description="Rowernighter in Turku" %}
 
 ### Main variables
 
