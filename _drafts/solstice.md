@@ -30,7 +30,7 @@ I figured, they are too lazy to walk a shortest distance if car can be used.
 As I had a simple kids' pulka to haul half of my kit I was happy to follow the track rather than trying to make my own through dense 
 vegetation.
 
-{% include image_wide.html src="https://farm8.staticflickr.com/7581/16128524011_97f117c733_k.jpg" link="https://www.flickr.com/photos/m3t/16128524011/" description="Snow track" %}
+{% include image.html src="https://farm8.staticflickr.com/7581/16128524011_30aff499f9_c.jpg" link="https://www.flickr.com/photos/m3t/16128524011/" description="Snow track" %}
 
 It felt exciting to be in the forest in quickly darkening night. Lacking an exact destination to orienteer to I forgot to track 
 my progress on the map carefully and did a basic mistake. In a crossing I had taken a wrong turn to 
@@ -39,9 +39,13 @@ My pulka didn't work well in the woods, it rolled from every bump. I had gone sl
 geography was not matching with the map. I positioned myself with my backup system, phone gps, didn't turn back but pushed through
 to another track and approached the lakes from the opposite direction. 
 
-Despite darkness I had plenty of energy to scout the campsite. The first two were not promising. The third one was inside nature reserve. 
-The biggest lake, Iilijärvi, was out of question as the map shows three cottages by the lake. I want to find my own lake when possible. 
-Also if the lake opened to North, urban lights from Jyväskylä seemed to pollute the scene. I looked up on Iilivuori hill direction. 
-South of the highest point were two tiny ponds called Kataislammit. I decided to have a look. The ascent was not long but terrain is rocky.
+Despite darkness I had plenty of energy to scout the campsite. The first two lakes were not promising. 
+The third one was inside nature reserve. The biggest lake, Iilijärvi, was out of question as the map has three cottages by the lake. 
+I want to find my own lake when possible. Also if the lake opened to North, urban lights from Jyväskylä seemed to pollute the scene. 
+I looked up on Iilivuori hill direction. South of the highest point were two tiny ponds called Kataislammit. I climbed to have a look. 
+The ascent was not long but terrain is rocky.
 
 {% include image_wide.html src="https://farm8.staticflickr.com/7580/16129687432_0dfa1f9022_k.jpg" link="https://www.flickr.com/photos/m3t/16129687432/" description="Campsite" %}
+
+
+{% include image_full.html src="https://farm9.staticflickr.com/8651/15942999998_fe1b5a5a8d_k.jpg" link="https://www.flickr.com/photos/m3t/15942999998/" height="100%" description="Campfire" %}
