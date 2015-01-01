@@ -9,10 +9,10 @@ video: false
 
 # Winter Solstice Adventure
 
-Early winter had been miserable on the South Coast where I live. Two false starts, otherwise dark and wet. 
+Early winter had been miserable on the South Coast where I live. Two false starts, otherwise mild and wet. 
 I missed snow and ice and primitive satisfaction I get from surviving in cold. In the beginning of Christmas holiday 
 I had opportunity to go on a short trip. Winter solstice, the shortest day of the year, would occur during that time. 
-In the Southern Finland sun goes over the horizon for barely five hours. Also my lunar calendar had New Moon symbol. 
+In the Southern Finland sun goes over the horizon for barely five hours. In addition my lunar calendar had New Moon symbol. 
 Those together make nigths long and dark. In such conditions natural theme for a trip is to camp in one place 
 and do nothing but sit by the campfire.
 
