@@ -40,15 +40,6 @@
 }
 
 
-.img-float {
-   float: left;
-   max-width: 595px;
-}
-
-.img-float:first-child {
-   padding-right: 10px;
-}
-
 .menu {
 	position: fixed;
 }

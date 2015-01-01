@@ -181,12 +181,27 @@ img.full-width {
 }
 
 .wide-img-group {
-   float: left;
    width: 100%;
+}
+
+
+.img-float-left {
+   float: left;
+   max-width: 595px;
+}
+
+.img-float-right {
+   float: right;
+   max-width: 595px;
+}
+
+.img-float:first-child {
+   padding-right: 10px;
 }
 
 .column {
 	margin: 0 auto;
+	clear: both;
 }
 
 
